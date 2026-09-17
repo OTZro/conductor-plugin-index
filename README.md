@@ -1,6 +1,6 @@
 # conductor-plugin-index
 
-A public plugin index for [conductor](https://github.com/OTZro/tool-conductor)'s Marketplace.
+A public plugin index for [conductor](https://github.com/OTZro/conductor)'s Marketplace.
 
 ## Use it
 
