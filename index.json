@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    {
+      "name": "cardwindows",
+      "repo": "OTZro/conductor-plugin-cardwindows",
+      "description": "Tiling workspace formultiple cards at once — resizable board split, dock tabs, per-section focus.",
+      "tags": [
+        "ui",
+        "workspace"
+      ]
+    }
+  ]
+}
